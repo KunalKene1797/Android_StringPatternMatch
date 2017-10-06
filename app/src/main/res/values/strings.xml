@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StringPatternMatch</string>
+    <string name="desc">Finds a pattern when or if any of two strings contain special character "?" or "*" For Example (S1- kun?? S2- ?u?al) Therefore Pattern Match!</string>
+</resources>
